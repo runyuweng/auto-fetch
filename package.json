@@ -1,0 +1,17 @@
+{
+  "name": "auto-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./lib/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "get-value": "^3.0.1",
+    "nodemailer": "^4.6.7"
+  }
+}
